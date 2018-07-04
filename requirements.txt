@@ -1,0 +1,6 @@
+--find-links wheelhouse
+Flask
+opencv-python==3.4.1.15
+imutils
+numpy==1.14.5
+
